@@ -1,16 +1,12 @@
 # C.L.A.I.M.S. - Computer Laboratory Assets and InventoryManagement System
-
 > A modular system built using multiple multiple services for scalability and flexibility.  
 > This repository serves as the **root documentation and entry point** for the services that the project uses
-
 ---
 ## Overview
 - This project is designed using a **microservices architecture** setup where each service handles a specific domain function.  
 - Each service is independently deployable and communicates via REST APIs or message queues.
-
 ---
 ## Technologies Used
-
 | Layer                | Technology                    |
 | -------------------- | ----------------------------- |
 | **Frontend**         | React JS + Vite + Bootstrap 5 |
@@ -24,7 +20,6 @@
 
 ---
 ## Services
-
 | Service               | Description                                                      | Repository                                                            |
 | --------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------------- |
 | **Website**           | Serves the content for the web application                       | [Github Repository](https://github.com/bleunar/capstone-frontend-web) |
