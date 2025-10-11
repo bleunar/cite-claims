@@ -16,7 +16,6 @@
 | **API Gateway**      | Nginx                         |
 | **Containerization** | Docker + Coolify              |
 | **Version Control**  | Git + GitHub                  |
-| **CI/CD**            | GitHub Actions (Optional)     |
 
 ---
 ## Services
@@ -26,3 +25,6 @@
 | **Authentication**    | Handles user authentication, authorization using JSON Web Tokens | [Github Repository](https://github.com/bleunar/capstone-backend-auth) |
 | **Inventory Service** | Tracks assets, equipment, and inventory data                     | [Github Repository](https://github.com/bleunar/capstone-backend-api)  |
 | **Database**          | Centralized data access, migrations, and backups                 | None                                                                  |
+
+---
+[Live Website](https://claims.occulant.com)
