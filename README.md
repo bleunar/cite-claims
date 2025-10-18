@@ -24,6 +24,7 @@
 | **Website**           | Serves the content for the web application                       | [Github Repository](https://github.com/bleunar/capstone-frontend-web) |
 | **Authentication**    | Handles user authentication, authorization using JSON Web Tokens | [Github Repository](https://github.com/bleunar/capstone-backend-auth) |
 | **Inventory Service** | Tracks assets, equipment, and inventory data                     | [Github Repository](https://github.com/bleunar/capstone-backend-api)  |
+| **Email Service**     | Handles email activities                                         | [Github Repository](https://github.com/bleunar/capstone-backend-email)  |
 | **Database**          | Centralized data access, migrations, and backups                 | None                                                                  |
 
 ---
